@@ -1,4 +1,4 @@
-We're excited you are applying to Unity! As a part of the recruitment process, we would like to validate your technical skills through a small assignment. Return your answer as a zip file containing all relevant files _with tests and documentation_. Include `.git`, so that we can see your commit history)
+We're excited you are applying to Unity! As a part of the recruitment process, we would like to validate your technical skills through a small assignment. Return your answer as a zip file containing all relevant files _with tests and documentation_. Include `.git`, so that we can see your commit history.
 
 Do *not* fork this repository.
 
