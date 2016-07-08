@@ -4,7 +4,7 @@ Do *not* fork this repository.
 
 # Assignment
 
-Design and implement (with proper tests) a _message delivery system_ using [Go](http://golang.org/), C/C++/C#, or Java. You are free to use any external libraries if needed, but make sure your deliverable either contains these or allows us to automatically download any dependencies.
+Design and implement (with proper tests) a _message delivery system_ using [Go](http://golang.org/), C/C++/C#, or Java (no Java NIO package). You are free to use any external libraries if needed, but make sure your deliverable either contains these or allows us to automatically download any dependencies.
 
 Design the protocol so that it uses a minimal amount of bytes on the wire. The server should consume a minimal amount of resources (memory, cpu, etc.) when processing messages.
 
